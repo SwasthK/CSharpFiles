@@ -1,0 +1,14 @@
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\bin\Debug\net7.0\Prime_Or_Not.exe
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\bin\Debug\net7.0\Prime_Or_Not.deps.json
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\bin\Debug\net7.0\Prime_Or_Not.runtimeconfig.json
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\bin\Debug\net7.0\Prime_Or_Not.dll
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\bin\Debug\net7.0\Prime_Or_Not.pdb
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\obj\Debug\net7.0\Prime_Or_Not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\obj\Debug\net7.0\Prime_Or_Not.AssemblyInfoInputs.cache
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\obj\Debug\net7.0\Prime_Or_Not.AssemblyInfo.cs
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\obj\Debug\net7.0\Prime_Or_Not.csproj.CoreCompileInputs.cache
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\obj\Debug\net7.0\Prime_Or_Not.dll
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\obj\Debug\net7.0\refint\Prime_Or_Not.dll
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\obj\Debug\net7.0\Prime_Or_Not.pdb
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\obj\Debug\net7.0\Prime_Or_Not.genruntimeconfig.cache
+C:\Users\swath\Documents\GitHub\CSharpFiles\Prime_Or_Not\obj\Debug\net7.0\ref\Prime_Or_Not.dll
