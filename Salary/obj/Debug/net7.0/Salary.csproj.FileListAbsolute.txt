@@ -1,0 +1,14 @@
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\bin\Debug\net7.0\Salary.exe
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\bin\Debug\net7.0\Salary.deps.json
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\bin\Debug\net7.0\Salary.runtimeconfig.json
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\bin\Debug\net7.0\Salary.dll
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\bin\Debug\net7.0\Salary.pdb
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\obj\Debug\net7.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\obj\Debug\net7.0\Salary.AssemblyInfoInputs.cache
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\obj\Debug\net7.0\Salary.AssemblyInfo.cs
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\obj\Debug\net7.0\Salary.csproj.CoreCompileInputs.cache
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\obj\Debug\net7.0\Salary.dll
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\obj\Debug\net7.0\refint\Salary.dll
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\obj\Debug\net7.0\Salary.pdb
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\obj\Debug\net7.0\Salary.genruntimeconfig.cache
+C:\Users\swath\Documents\GitHub\CSharpFiles\Salary\obj\Debug\net7.0\ref\Salary.dll
