@@ -40,21 +40,21 @@ namespace Salary
         public void display()
         {
             Console.WriteLine("*************************");
-            Console.WriteLine($"Employee No : {employeeno}");
-            Console.WriteLine($"Employee Name : {employeename}");
-            Console.WriteLine($"DOB : {dateofbirth}");
-            Console.WriteLine($"Salary : {basicsalary} Rs");
-            Console.WriteLine($"DA : {da:F2} Rs");
-            Console.WriteLine($"HRA : {hra:F2} Rs");
-            Console.WriteLine($"PF : {pf:F2} Rs");
-            Console.WriteLine($"PT : {pt:F2} Rs");
-            Console.WriteLine($"Gross : {gross:F2} Rs");
-            Console.WriteLine($"NetSal : {netsal:F2} Rs");
+            Console.WriteLine("Employee No : "+employeeno);
+            Console.WriteLine("Employee Name : "+employeename);
+            Console.WriteLine("DOB : "+dateofbirth);
+            Console.WriteLine("Salary : "+basicsalary);
+            Console.WriteLine("DA : "+da);
+            Console.WriteLine("HRA : "+hra);
+            Console.WriteLine("PF : "+pf);
+            Console.WriteLine("PT : "+pt);
+            Console.WriteLine("Gross : "+gross);
+            Console.WriteLine("NetSal : "+netsal);
         }
 
         public static void Main(string[]args)
         {
-            Salary s=new();
+            Salary s=new Salary();
             s.input();
             s.caluclate();
             s.display();
